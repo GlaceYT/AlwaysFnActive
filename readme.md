@@ -9,8 +9,6 @@
 ### WASD Arrow Key Remapper for Mini Keyboards
 
 [![GitHub release](https://img.shields.io/github/v/release/GlaceYT/AlwaysFnActive?style=for-the-badge&color=6366f1)](https://github.com/GlaceYT/AlwaysFnActive/releases)
-[![License](https://img.shields.io/github/license/GlaceYT/AlwaysFnActive?style=for-the-badge&color=10b981)](LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/GlaceYT/AlwaysFnActive/total?style=for-the-badge&color=8b5cf6)](https://github.com/GlaceYT/AlwaysFnActive/releases)
 [![Stars](https://img.shields.io/github/stars/GlaceYT/AlwaysFnActive?style=for-the-badge&color=f59e0b)](https://github.com/GlaceYT/AlwaysFnActive/stargazers)
 
 **Remap your WASD keys to Arrow Keys with a single click.**
