@@ -16,7 +16,7 @@
 **Remap your WASD keys to Arrow Keys with a single click.**
 Built for 60%/65% keyboards that lack dedicated arrow keys.
 
-[Download](https://github.com/GlaceYT/AlwaysFnActive/releases) · [Report Bug](https://github.com/GlaceYT/AlwaysFnActive/issues) · [Discord](https://discord.gg/xQF9f9yUEM)
+[⬇️ Download](https://github.com/GlaceYT/AlwaysFnActive/releases/download/4.1/AlwaysFnActive.exe) · [Report Bug](https://github.com/GlaceYT/AlwaysFnActive/issues) · [Discord](https://discord.gg/xQF9f9yUEM)
 
 </div>
 
@@ -40,8 +40,8 @@ Built for 60%/65% keyboards that lack dedicated arrow keys.
 
 ### Option 1: Download the EXE (Recommended)
 
-1. Go to the [Releases](https://github.com/GlaceYT/AlwaysFnActive/releases) page
-2. Download `AlwaysFnActive.exe`
+1. Go to the [Releases](https://github.com/GlaceYT/AlwaysFnActive/releases/tag/4.1) page
+2. Download [`AlwaysFnActive.exe`](https://github.com/GlaceYT/AlwaysFnActive/releases/download/4.1/AlwaysFnActive.exe)
 3. Double-click to run — that's it!
 
 ### Option 2: Run from Source
@@ -85,10 +85,16 @@ When Arrow Mode is **OFF**, WASD types normally.
 
 ---
 
-## 🖥️ Screenshot
+## 🖥️ Screenshots
 
 <div align="center">
-  <img src="https://i.ibb.co/GfTxbJfC/7-edited.png" alt="AlwaysFnActive Screenshot" width="80%"/>
+
+### Arrow Mode ON
+<img src="imgs/on.png" alt="Arrow Mode ON" width="80%"/>
+
+### Type Mode OFF
+<img src="imgs/off.png" alt="Type Mode OFF" width="80%"/>
+
 </div>
 
 ---
@@ -115,9 +121,11 @@ AlwaysFnActive/
 ├── generate_icon.py    # Icon generator
 ├── icon.ico            # Application icon
 ├── requirements.txt    # Python dependencies
-├── readme.md           # This file
-└── dist/
-    └── AlwaysFnActive.exe
+├── LICENSE             # MIT License
+├── imgs/
+│   ├── on.png          # Arrow Mode screenshot
+│   └── off.png         # Type Mode screenshot
+└── readme.md           # This file
 ```
 
 ---
